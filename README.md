@@ -1,4 +1,5 @@
 # hello
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-V2TGGFRMDW"></script>
 <script>
